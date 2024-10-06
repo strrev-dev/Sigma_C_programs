@@ -5,6 +5,8 @@
 int main(){
 
     printf("Hello Friends\n");
+    printf("Hello girlfriends\n");
+    
 
     return 0;
 }
