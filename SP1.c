@@ -5,7 +5,7 @@
 int main(){
 
     printf("Hello Friends\n");
-    printf("Hello girlfriends\n");
+    printf("Hello world this folder containing codes  of questiions\n");
     
 
     return 0;
